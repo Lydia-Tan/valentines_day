@@ -9,6 +9,9 @@ function Navbar(){
                     <Link to="/" className="navbar-logo">
                         HOME
                     </Link>
+                    <ul className ={click ? 'nav-menu active' : 'nav-menu'}>
+                        
+                    </ul>
                 </div>
             </nav>
         </>
