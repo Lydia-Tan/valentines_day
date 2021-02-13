@@ -57,7 +57,7 @@ function Navbar(){
                             </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle ="btn--outline">Compliments</Button>}
+                    {/* {button && <Button buttonStyle ="btn--outline">Compliments</Button>} */}
 
                 </div>
             </nav>
